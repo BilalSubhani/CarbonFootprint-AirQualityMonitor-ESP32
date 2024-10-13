@@ -35,7 +35,7 @@ Some future improvements include:
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/BilalSubhani/CarbonMonitor-AirQualityMonitor-ESP32.git
+    git clone https://github.com/BilalSubhani/CarbonFootprint-AirQualityMonitor-ESP32.git
     ```
 2. Open the code in the **Arduino IDE** and upload it to the **ESP32**.
 3. Access the web server through the IP address provided by the **ESP32** once it's connected to the Wi-Fi.
